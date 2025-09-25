@@ -1,7 +1,7 @@
 # HE_trigger_warning
  Projekat za nadzorno-upravljacku aplikaciju trigger-warning sistema hidroelektrane
 
-# README – CODESYS projekat (SCADA + MIL simulacija + alarmi)
+# README – CODESYS projekat (SCADA + MIL simulacija + alarmi) 
 
 ## 0) Preduslovi
 - **CODESYS 3.5 SPxx** (Development System).
